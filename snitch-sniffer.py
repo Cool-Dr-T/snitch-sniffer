@@ -2,4 +2,4 @@
 
 find_snitch()
 	wibble=1
-	print(wobble)
+	print(wibble)
